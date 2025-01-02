@@ -225,11 +225,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Individual Adult Therapy
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "● \_Anxiety\n● \_Depression\n● \_Grief and loss\n● \_Relationship difficulties\n● \_Life transitions\n● \_Adjustment\n● \_Stress\n● \_trauma\n● \_Self-esteem\n● \_Parent counselling\_\n\n\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
