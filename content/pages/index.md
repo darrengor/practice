@@ -308,7 +308,11 @@ sections:
       text: About Me
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: >-
+      I am a Clinical Psychologist working in Malvern. In my years of work, I
+      have found that the emotional impact of a situation needs to be addressed
+      sensitively and honestly in an environment that feels safe enough to do
+      so.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
