@@ -247,7 +247,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: SErvices
+      label: ''
       color: text-primary
       styles:
         self:
