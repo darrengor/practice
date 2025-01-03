@@ -370,7 +370,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: >-
+        To enquire about appointment availability, please contact me via email
+        or telephone.
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
