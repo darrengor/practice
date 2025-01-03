@@ -352,9 +352,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: "*   University of the Witwatersrand, BA (Speech and Hearing Therapy)\n\n*   University of \_South Africa (Social Work NDP)\n\n*   University of \_South Africa BA Hons \_(Psychology)\n\n*   University of the Witwatersrand MA (Clinical Psychology)\n\n*   Registered with AHPRA\_\n\n*   Member Australian Psychological Association (MAPS)\n\n*   Registered with the Perinatal Loss Centre\n\n*   Member of the Australian Association for Infant Mental Health (AAIMH)\n\n"
     actions:
       - label: Get started
         url: /
