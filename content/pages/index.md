@@ -179,6 +179,9 @@ sections:
         To enquire about appointment availability, please contact me via email
         or telephone.
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Contact Details
     text: |+
       **Phone:**
