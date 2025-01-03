@@ -11,8 +11,10 @@ sections:
         self:
           textAlign: center
     subtitle: Psychologist in Malvern
-    text: |
-      Helping you navigate life's challenges
+    text: >
+      <div style="text-align: center">Helping you navigate life's
+      challenges</div>
+
 
       ![](/images/bev.webp)
     actions: []
