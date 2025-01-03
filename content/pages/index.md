@@ -64,6 +64,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: center
     type: GenericSection
   - type: DividerSection
     title: Divider
