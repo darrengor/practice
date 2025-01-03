@@ -12,7 +12,7 @@ sections:
       Helping you navigate life's challenges
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/bev.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
