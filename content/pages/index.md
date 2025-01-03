@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Beverley Marcus
       color: text-dark
     subtitle: Psychologist in Malvern
     text: >
