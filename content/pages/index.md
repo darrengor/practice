@@ -8,14 +8,8 @@ sections:
       text: Beverley Marcus
       color: text-dark
     subtitle: Psychologist in Malvern
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-
-
-
-
-
+    text: |
+      Helping you navigate life's challenges
 
       ![](/images/bev.webp)
     actions: []
