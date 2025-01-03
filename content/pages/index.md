@@ -375,11 +375,28 @@ sections:
         or telephone.
       color: text-dark
     subtitle: Contact Details
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Phone:
+
+      042 180 4837
+
+
+
+      Address:
+
+      1232 Malvern Rd, Malvern, Melbourne, VIC 3144
+
+
+
+      E-Mail:
+
+      beverleymarcus\@gmail.com
+
+
+
+      Fax:
+
+      (03) 9959 8115
     actions: []
     media:
       type: FormBlock
