@@ -11,6 +11,13 @@ sections:
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
+
+
+
+
+
+
+      ![](/images/bev.webp)
     actions: []
     media:
       type: ImageBlock
