@@ -206,6 +206,9 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
