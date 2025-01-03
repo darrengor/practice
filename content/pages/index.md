@@ -78,6 +78,9 @@ sections:
       text: About Me
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: >-
       I am a Clinical Psychologist working in Malvern. In my years of work, I
       have found that the emotional impact of a situation needs to be addressed
