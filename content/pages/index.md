@@ -49,7 +49,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: "**Individual Adult Therapy**\n\n*   Anxiety\n\n*   Depression\n\n*   Grief and loss\n\n*   Relationship difficulties\n\n*   Life transitions\n\n*   Adjustment\n\n*   Stress\n\n*   Trauma\n\n*   Self-esteem\n\n*   Parent counselling\_\n\n**Antenatal and postnatal counselling:\_**With\_the Antenatal and Postnatal Psychology Network. I work with a variety of perinatal issues such as fertility struggles, pregnancy related issues, counselling for termination for medical reasons, recurrent miscarriage and loss during various stages of pregnancy, stillbirth, loss after birth, as well as birth trauma and pre and postnatal depression and anxiety and adjustment to parenting.\n\n**Parent-infant psychotherapy:\_**Focus on the relationship between parents and babies up to the age of 2 when various difficulties arise in order to promote the baby’s attachment, support the baby’s development and enhance the way the parent and their baby are relating to each other.\n\n**Under 5 therapy and play therapy for children**\_Working with parents and their children, understanding young children’s behaviour, communication and the dynamics of family relationships in order to facilitate change and promote the parent-child attachment and support healthy emotional development for children.\n\n<div style=\"text-align: center\">![](/images/rs=w_710,cg_true.webp)</div>\n\n"
+    text: "![](/images/rs=w_710,cg_true.webp)\n\n***\n\n<div style=\"text-align: left\">**Individual Adult Therapy**</div>\n\n*   Anxiety\n\n*   Depression\n\n*   Grief and loss\n\n*   Relationship difficulties\n\n*   Life transitions\n\n*   Adjustment\n\n*   Stress\n\n*   Trauma\n\n*   Self-esteem\n\n*   Parent counselling\_\n\n\\*\\*Antenatal and postnatal counselling:\_\\*\\*With\_the Antenatal and Postnatal Psychology Network. I work with a variety of perinatal issues such as fertility struggles, pregnancy related issues, counselling for termination for medical reasons, recurrent miscarriage and loss during various stages of pregnancy, stillbirth, loss after birth, as well as birth trauma and pre and postnatal depression and anxiety and adjustment to parenting.\n\n\\*\\*Parent-infant psychotherapy:\_\\*\\*Focus on the relationship between parents and babies up to the age of 2 when various difficulties arise in order to promote the baby’s attachment, support the baby’s development and enhance the way the parent and their baby are relating to each other.\n\n**Under 5 therapy and play therapy for children**\_Working with parents and their children, understanding young children’s behaviour, communication and the dynamics of family relationships in order to facilitate change and promote the parent-child attachment and support healthy emotional development for children.\n\n"
     badge:
       label: ''
       color: text-primary
@@ -74,12 +74,8 @@ sections:
       have found that the emotional impact of a situation needs to be addressed
       sensitively and honestly in an environment that feels safe enough to do
       so.
-    text: "#### **My Approach**\n\nAs a psychologist, I understand that part of being human entails going through experiences that leave us feeling vulnerable and unsettled, often with a shattered sense of trust and hope in the world and others. Dealing with these feelings and anxiety on your own is no easy task, and although the decision to begin seeing a psychologist is not an easy one, entering a therapy relationship provides a safe space, where together a journey can be embarked upon as a way of finding meaning and bringing about change. Therapy also aims to understand and shift the unconscious repetitive choices, patterns and behaviours that result in unfavourable outcomes. I work primarily from a \_psychodynamic perspective, \_but the therapy process is always tailored to meet the individual’s needs.\n\nI facilitate the courageous \_process of bringing about change in order to \_create space for new and healthier experiences..\n\nIn essence, I understand therapy to be an investment in one’s self and one’s future\_\n\n*\"Feeling real is more than existing; it is finding a way to exist as oneself...and to have a self into which to retreat for relaxation.\"  Donald Woods Winnicott*\n"
+    text: "![](/images/qt=q_62.webp)\n\n\n\n#### **Approach**\n\nAs a psychologist, I understand that part of being human entails going through experiences that leave us feeling vulnerable and unsettled, often with a shattered sense of trust and hope in the world and others. Dealing with these feelings and anxiety on your own is no easy task, and although the decision to begin seeing a psychologist is not an easy one, entering a therapy relationship provides a safe space, where together a journey can be embarked upon as a way of finding meaning and bringing about change. Therapy also aims to understand and shift the unconscious repetitive choices, patterns and behaviours that result in unfavourable outcomes. I work primarily from a \_psychodynamic perspective, \_but the therapy process is always tailored to meet the individual’s needs.\n\nI facilitate the courageous \_process of bringing about change in order to \_create space for new and healthier experiences..\n\nIn essence, I understand therapy to be an investment in one’s self and one’s future\_\n\n*\"Feeling real is more than existing; it is finding a way to exist as oneself...and to have a self into which to retreat for relaxation.\"  Donald Woods Winnicott*\n"
     actions: []
-    media:
-      url: /images/qt=q_62.webp
-      altText: Fun feature preview
-      type: ImageBlock
     badge:
       label: ''
       color: text-primary
@@ -137,70 +133,23 @@ sections:
       color: text-dark
     subtitle: Contact Details
     text: |+
-      Phone:
+      **Phone:**
 
       *   042 180 4837
 
-
-
-      Address:
+      **Address:**
 
       *   1232 Malvern Rd, Malvern, Melbourne, VIC 3144
 
-
-
-      E-Mail:
+      **E-Mail:**
 
       *   <beverleymarcus@gmail.com>
 
-
-
-      Fax:
+      **Fax:**
 
       *   (03) 9959 8115
 
     actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: Contact
