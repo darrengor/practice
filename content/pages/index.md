@@ -10,18 +10,9 @@ sections:
     subtitle: Psychologist in Malvern
     text: |
       Helping you navigate life's challenges
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/bev.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -58,27 +49,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: "**Individual Adult Therapy** \n\n*   Anxiety\n\n*   Depression\n\n*   Grief and loss\n\n*   Relationship difficulties\n\n*   Life transitions\n\n*   Adjustment\n\n*   Stress\n\n*   Trauma\n\n*   Self-esteem\n\n*   Parent counselling\_\n\n**Antenatal and postnatal counselling\_**\_With\_the Antenatal and Postnatal Psychology Network. I work with a variety of perinatal issues such as fertility struggles, pregnancy related issues, counselling for termination for medical reasons, recurrent miscarriage and loss during various stages of pregnancy, stillbirth, loss after birth, as well as birth trauma and pre and postnatal depression and anxiety and adjustment to parenting.\n\n\n**Parent-infant psychotherapy:\_**Focus on the relationship between parents and babies up to the age of 2 when various difficulties arise in order to promote the baby’s attachment, support the baby’s development and enhance the way the parent and their baby are relating to each other.\n\n**Under 5 therapy and play therapy for children**\_Working with parents and their children, understanding young children’s behaviour, communication and the dynamics of family relationships in order to facilitate change and promote the parent-child attachment and support healthy emotional development for children.\n"
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    text: "**Individual Adult Therapy**\n\n*   Anxiety\n\n*   Depression\n\n*   Grief and loss\n\n*   Relationship difficulties\n\n*   Life transitions\n\n*   Adjustment\n\n*   Stress\n\n*   Trauma\n\n*   Self-esteem\n\n*   Parent counselling\_\n\n\\*\\*Antenatal and postnatal counselling\_\\*\\*\_With\_the Antenatal and Postnatal Psychology Network. I work with a variety of perinatal issues such as fertility struggles, pregnancy related issues, counselling for termination for medical reasons, recurrent miscarriage and loss during various stages of pregnancy, stillbirth, loss after birth, as well as birth trauma and pre and postnatal depression and anxiety and adjustment to parenting.\n\n\\*\\*Parent-infant psychotherapy:\_\\*\\*Focus on the relationship between parents and babies up to the age of 2 when various difficulties arise in order to promote the baby’s attachment, support the baby’s development and enhance the way the parent and their baby are relating to each other.\n\n**Under 5 therapy and play therapy for children**\_Working with parents and their children, understanding young children’s behaviour, communication and the dynamics of family relationships in order to facilitate change and promote the parent-child attachment and support healthy emotional development for children.\n\n<div style=\"text-align: center\">![](/images/rs=w_710,cg_true.webp)</div>\n\n"
     badge:
       label: ''
       color: text-primary
@@ -103,10 +74,10 @@ sections:
       have found that the emotional impact of a situation needs to be addressed
       sensitively and honestly in an environment that feels safe enough to do
       so.
-    text: "#### My Approach\n\n\_\n\nAs a psychologist, I understand that part of being human entails going through experiences that leave us feeling vulnerable and unsettled, often with a shattered sense of trust and hope in the world and others. Dealing with these feelings and anxiety on your own is no easy task, and although the decision to begin seeing a psychologist is not an easy one, entering a therapy relationship provides a safe space, where together a journey can be embarked upon as a way of finding meaning and bringing about change. Therapy also aims to understand and shift the unconscious repetitive choices, patterns and behaviours that result in unfavourable outcomes. I work primarily from a \_psychodynamic perspective, \_but the therapy process is always tailored to meet the individual’s needs.\n\nI facilitate the courageous \_process of bringing about change in order to \_create space for new and healthier experiences..\n\nIn essence, I understand therapy to be an investment in one’s self and one’s future\_\n\n*\"Feeling real is more than existing; it is finding a way to exist as oneself...and to have a self into which to retreat for relaxation.\"  Donald Woods Winnicott*\n"
+    text: "#### **My Approach**\n\nAs a psychologist, I understand that part of being human entails going through experiences that leave us feeling vulnerable and unsettled, often with a shattered sense of trust and hope in the world and others. Dealing with these feelings and anxiety on your own is no easy task, and although the decision to begin seeing a psychologist is not an easy one, entering a therapy relationship provides a safe space, where together a journey can be embarked upon as a way of finding meaning and bringing about change. Therapy also aims to understand and shift the unconscious repetitive choices, patterns and behaviours that result in unfavourable outcomes. I work primarily from a \_psychodynamic perspective, \_but the therapy process is always tailored to meet the individual’s needs.\n\nI facilitate the courageous \_process of bringing about change in order to \_create space for new and healthier experiences..\n\nIn essence, I understand therapy to be an investment in one’s self and one’s future\_\n\n*\"Feeling real is more than existing; it is finding a way to exist as oneself...and to have a self into which to retreat for relaxation.\"  Donald Woods Winnicott*\n"
     actions: []
     media:
-      url: /images/hero2.svg
+      url: /images/qt=q_62.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -124,7 +95,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: "#### Experience\n\nI have been in private practice as a clinical psychologist for over 14 years, currently seeing clients in Malvern .\_\n\nPrior to qualifying as a Clinical Psychologist, I obtained qualifications in Speech and Hearing Therapy and Social Work. \_I have a special Interest in perinatal work .\_\n\nIn terms of individual adult therapy, \_I deal with a range of issues such as stress, depression, anxiety, adjustment, life transitions, grief and loss as well as relationship difficulties. I also work with difficulties that stem from childhood with a focus on making links to bring about change in order to participate in life in a fuller, more authentic way.\_\n\nI \_offer parent-infant psychotherapy, play therapy for children and under 5 therapy, aiming to understand conscious and unconscious communications and behaviours with presentations such as separation anxiety, sadness, angry behaviour etc in order to facilitate change, support the child's development and promote the parent-child bond.\_\n\nI provide perinatal counselling, which includes fertility difficulties, pregnancy related issues, preparation for childbirth, processing difficult or traumatic experiences related to childbirth. I also help women and couples who are faced with fetal anomalies during pregnancy or diagnoses of genetic conditions in early childhood. I provide counselling for the devastating experience of miscarriage and loss and I also offer counselling for postnatal challenges including the transition into parenthood. I draw on parent-infant psychotherapy to assist parents who are experiencing various difficulties in relation to their babies, aiming to promote the parent-child attachment and support the baby's development.\_\n\nI am part of the antenatal & postnatal psychology network. For more information please follow this link:\_<https://www.antenatalandpostnatalpsychology.com.au/beverley-marcus.html>\n\nBased on clinical experience, I \_have written a psychologically focused children's book titled “The Storm Inside Katie” that highlights the idea of helping children manage difficult feelings through characters that are easy to relate to for both parents and children.\n"
+    text: "#### **My Experience**\n\nI have been in private practice as a clinical psychologist for over 14 years, currently seeing clients in Malvern .\_\n\nPrior to qualifying as a Clinical Psychologist, I obtained qualifications in Speech and Hearing Therapy and Social Work. \_I have a special Interest in perinatal work .\_\n\nIn terms of individual adult therapy, \_I deal with a range of issues such as stress, depression, anxiety, adjustment, life transitions, grief and loss as well as relationship difficulties. I also work with difficulties that stem from childhood with a focus on making links to bring about change in order to participate in life in a fuller, more authentic way.\_\n\nI \_offer parent-infant psychotherapy, play therapy for children and under 5 therapy, aiming to understand conscious and unconscious communications and behaviours with presentations such as separation anxiety, sadness, angry behaviour etc in order to facilitate change, support the child's development and promote the parent-child bond.\_\n\nI provide perinatal counselling, which includes fertility difficulties, pregnancy related issues, preparation for childbirth, processing difficult or traumatic experiences related to childbirth. I also help women and couples who are faced with fetal anomalies during pregnancy or diagnoses of genetic conditions in early childhood. I provide counselling for the devastating experience of miscarriage and loss and I also offer counselling for postnatal challenges including the transition into parenthood. I draw on parent-infant psychotherapy to assist parents who are experiencing various difficulties in relation to their babies, aiming to promote the parent-child attachment and support the baby's development.\_\n\nI am part of the antenatal & postnatal psychology network. For more information please follow this link:\_<https://www.antenatalandpostnatalpsychology.com.au/beverley-marcus.html>\n\nBased on clinical experience, I \_have written a psychologically focused children's book titled “The Storm Inside Katie” that highlights the idea of helping children manage difficult feelings through characters that are easy to relate to for both parents and children.\n"
     actions: []
     media:
       type: ImageBlock
