@@ -175,9 +175,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        To enquire about appointment availability, please contact me via email
-        or telephone.
+      text: Contact Details
       color: text-dark
       styles:
         self:
