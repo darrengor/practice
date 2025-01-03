@@ -203,7 +203,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Contact
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
   - title: Divider
