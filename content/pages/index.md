@@ -27,6 +27,8 @@ sections:
     styles:
       self:
         alignItems: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       text: Beverley Marcus
