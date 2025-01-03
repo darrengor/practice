@@ -68,7 +68,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ''
+      label: "Individual Adult TherapyAnxietyDepressionGrief and lossRelationship difficultiesLife transitionsAdjustmentStressTraumaSelf-esteemParent counselling**Antenatal and postnatal counselling\_ With\_the Antenatal and Postnatal Psychology Network. I work with a variety of perinatal issues such as fertility struggles, pregnancy related issues, counselling for termination for medical reasons, recurrent miscarriage and loss during various stages of pregnancy, stillbirth, loss after birth, as well as birth trauma and pre and postnatal depression and anxiety and adjustment to parenting.**Parent-infant psychotherapy:\_**Focus on the relationship between parents and babies up to the age of 2 when various difficulties arise in order to promote the baby’s attachment, support the baby’s development and enhance the way the parent and their baby are relating to each other.Under 5 therapy and play therapy for children\_Working with parents and their children, understanding young children’s behaviour, communication and the dynamics of family relationships in order to facilitate change and promote the parent-child attachment and support healthy emotional development for children."
       color: text-primary
     colors: bg-light-fg-dark
     styles:
