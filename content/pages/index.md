@@ -64,7 +64,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: '/images/rs=w_710,cg_true.webp'
       altText: Fun feature preview
     badge:
       type: Badge
