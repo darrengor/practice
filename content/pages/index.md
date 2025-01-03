@@ -348,7 +348,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Business Consulting
+      text: 'Education, Registrations & Memberships'
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
