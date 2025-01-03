@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Beverley Marcus
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Psychologist in Malvern
     text: |
       Helping you navigate life's challenges
