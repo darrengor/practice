@@ -182,7 +182,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Contact Details
+    subtitle: >-
+      To enquire about appointment availability, please contact me via email or
+      telephone.
     text: |+
       **Phone:**
 
